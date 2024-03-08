@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cb88d3e-df31-409a-970c-de6629d5b27f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/ArraylistDemo/ArraylistDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/InterfaceDemo/InterfaceDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/StaticDemo/StaticDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/TasksOfLesson7/TasksOfLesson7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/divideSeven/divideSeven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/exceptionHandling/exceptionHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/generics/generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/hashMapDemo/hashMapDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/jdbcIntro/jdbcIntro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/packagesDemo/packagesDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/polymorphism/polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/question3/question3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/readingFileDemo/readingFileDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/repositoryDemo/repositoryDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/thorDemo/thorDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/threadingDemo1/threadingDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/throwDemo/throwDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaCourse/workingWithFIles/workingWithFIles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microservices.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/section2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/AccountsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/audit/AuditAwareImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/constants/AccountsConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ErrorResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/AccountsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/service/IAccountsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/service/impl/AccountsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/test/java/com/eazybytes/accounts/AccountsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/CardsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/audit/AuditAwareImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/constants/CardsConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/dto/CardsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/dto/ErrorResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/entity/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/exception/CardAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/mapper/CardsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/repository/CardsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/service/ICardsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/java/com/eazybytes/cards/service/impl/CardsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/cards/src/test/java/com/eazybytes/cards/CardsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/LoansApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/audit/AuditAwareImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/constants/LoansConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/dto/ErrorResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/dto/LoansDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/entity/Loans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/exception/LoanAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/mapper/LoansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/repository/LoansRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/service/ILoansService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/java/com/eazybytes/loans/service/impl/LoansServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/loans/src/test/java/com/eazybytes/loans/LoansApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/section4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/accounts/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section4/accounts/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/section_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/java/com/projects/bankproject/BankProjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/java/com/projects/bankproject/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/java/com/projects/bankproject/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/java/com/projects/bankproject/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/java/com/projects/bankproject/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/BankProject/src/test/java/com/projects/bankproject/BankProjectApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/Tomcat10.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/Tomcat10w.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/bootstrap.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/catalina.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/ciphers.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/configtest.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/digest.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/makebase.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/migrate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/service.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/setclasspath.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/shutdown.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/startup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/tcnative-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/tomcat-juli.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/tool-wrapper.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/bin/version.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/configuration/OAuth2ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/controllers/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/controllers/SignUpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/dto/HorseRaceRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/dto/Investment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/dto/UserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/java/com/annotaions/demoproject/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/resources/static/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/demoProject/src/main/resources/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/kitaplikonline/.idea/kitaplikonline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/Object.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/Object.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Vergi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Car/Vergi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/AbstarctClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/AbstarctClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Basse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Basse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Bassse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Bassse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Enum/Enum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Enum/Enum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Enum/src/CyberTruck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Enum/src/CyberTruck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/BufferReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/BufferReaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/FileReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/FileReaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/FileWriterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileErExample/FileWriterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileIOStreamExample/FileInputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileIOStreamExample/FileInputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileIOStreamExample/FileOutputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/FileIOStreamExample/FileOutputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/HowerCar/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/HowerCar/Fidan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/HowerCar/HighLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/HowerCar/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Annnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Annnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interrface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interrface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interrrface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Interrrface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/MyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/MyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/MyyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/MyyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Reccord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Reccord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Sub1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Sub1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Interview/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/MVC/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/MVC/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/MVC/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/ONotation/Alghoritms.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/ONotation/Alghoritms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/ONotation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/ONotation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Researcher/Experimental.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Researcher/Experimental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Researcher/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Researcher/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Tools/FilePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Tools/FilePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Tools/Files/ExperimentalData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/Object/src/Tools/Files/ExperimentalData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CavidMellim/lesson10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CavidMellim/lesson10/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2d32xwHFQxsoheMSGrJzdwcNgFy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AccountApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AccountsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AuthenticatioDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AuthenticationDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ExploreApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PostsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/User/Desktop/Java/Spring/Microservices/donategram/accounts/src/main/java/com/donategram/accounts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Java/Spring/Microservices/Vachado&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\explore\src\main\resources" />
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\explore\src\main\java\com\vachado\explore" />
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\posts\src\main\java\com\donategram\posts" />
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\posts\src\main\java\com\donategram\posts\dto" />
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\posts\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\account\src\main\resources\templates" />
+      <recent name="C:\Users\User\Desktop\Java\Spring\Microservices\donategram\account\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entity" />
+      <recent name="com.donategram.account.controller" />
+      <recent name="com.donategram.account.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PostsApplication">
+    <configuration name="AccountsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vachado.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.donategram.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExploreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="explore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vachado.explore.ExploreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="posts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vachado.posts.PostsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AccountsApplication (1)" />
+      <item itemvalue="Spring Boot.ExploreApplication" />
+      <item itemvalue="Spring Boot.PostsApplication" />
+      <item itemvalue="Spring Boot.AccountsApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cb88d3e-df31-409a-970c-de6629d5b27f" name="Changes" comment="" />
+      <created>1709222690650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709222690650</updated>
+      <workItem from="1709222691753" duration="16655000" />
+      <workItem from="1709242583197" duration="5422000" />
+      <workItem from="1709248400228" duration="629000" />
+      <workItem from="1709249412602" duration="1477000" />
+      <workItem from="1709279095244" duration="5666000" />
+      <workItem from="1709285414543" duration="3472000" />
+      <workItem from="1709288928770" duration="968000" />
+      <workItem from="1709291084322" duration="4993000" />
+      <workItem from="1709325996882" duration="2879000" />
+      <workItem from="1709370152261" duration="9693000" />
+      <workItem from="1709383568171" duration="4464000" />
+      <workItem from="1709389711813" duration="713000" />
+      <workItem from="1709399078930" duration="1344000" />
+      <workItem from="1709470023223" duration="6814000" />
+      <workItem from="1709480910281" duration="17403000" />
+      <workItem from="1709537614177" duration="4083000" />
+      <workItem from="1709569485100" duration="7217000" />
+      <workItem from="1709671857964" duration="3934000" />
+      <workItem from="1709754003346" duration="3893000" />
+      <workItem from="1709798186210" duration="2564000" />
+      <workItem from="1709833026922" duration="10000" />
+      <workItem from="1709836596329" duration="2742000" />
+      <workItem from="1709848200342" duration="3746000" />
+      <workItem from="1709894847554" duration="1971000" />
+      <workItem from="1709900972967" duration="1472000" />
+      <workItem from="1709905101189" duration="2954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
